@@ -106,7 +106,7 @@ Material:
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _Disslove: 3.11
+    - _Disslove: 0.01
     - _DissloveScale: 35
     - _Distortion: 0.151
     - _DistortionDissolve: 2
